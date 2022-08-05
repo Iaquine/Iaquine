@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in cloud web development and data science
-- 🌱 I’m currently learning JAVA, IBM Cloud, IBM Watson and data science
+- 🌱 I’m currently pySpark, AWS Cloud, IBM data science
 
 
 <div align="center">

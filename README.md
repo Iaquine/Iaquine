@@ -2,10 +2,6 @@
 <h1>Hi, I am Iaquine</h1>
 
 
-- 👀 I’m interested in cloud web development and data science
-- 🌱 I’m currently learning pySpark and AWS Cloud
-
-
 <div align="center">
   <a href="https://github.com/Iaquine">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iaquine&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
